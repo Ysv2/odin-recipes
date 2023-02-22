@@ -1,0 +1,20 @@
+.food{
+    color: black;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: ghostwhite;
+}
+
+.name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.ingredients{
+    font-weight: bold;
+    color: brown;
+}
+
+.foodname{
+    background-color: grey;
+}
